@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**JakhongirAlijonov/JakhongirAlijonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Icons](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
+![](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=fff)
+![](https://img.shields.io/badge/-SCSS-CC6699?logo=SCSS&logoColor=fff)
+![](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=fff)
+![](https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript5&logoColor=fff)
+![](https://img.shields.io/badge/-React.js-61DAFB?logo=React.js&logoColor=fff)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats](https://github-readme-stats.vercel.app/api?username=JakhongirAlijonov&count_private=true&show_icons=true&theme=radical)
+
+![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JakhongirAlijonov&show_icons=true&theme=radical)
+
